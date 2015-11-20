@@ -1,0 +1,27 @@
+{
+  "name": "brand-colors-json",
+  "version": "1.0.0",
+  "description": "Brand colors in JSON",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safareli/brand-colors-json.git"
+  },
+  "keywords": [
+    "brand",
+    "color",
+    "colors",
+    "data",
+    "json"
+  ],
+  "author": "Irakli Safareli <i.safareli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/safareli/brand-colors-json/issues"
+  },
+  "homepage": "https://github.com/safareli/brand-colors-json#readme",
+  "dependencies": {}
+}
